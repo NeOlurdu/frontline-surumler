@@ -1,6 +1,6 @@
 {
-  "version": "0.2.0",
-  "date": "2026-09-12",
-  "notes": "Bilgi kartlari (callout), bombalama efektleri, cephe asker sayilari",
-  "url": "https://github.com/NeOlurdu/frontline-surumler/releases/download/v0.2.0/Frontline-0.2.0-Kurulum.exe"
+  "version": "0.3.0",
+  "date": "2026-09-13",
+  "notes": "Oklar (cizim, stiller, catal, kutuphane), bilgi kartlari, Ekle menusu, Motion 4 yaylanma ve sarsinti, videoda ses, renkler, ikon",
+  "url": "https://github.com/NeOlurdu/frontline-surumler/releases/download/v0.3.0/Frontline-0.3.0-Kurulum.exe"
 }
